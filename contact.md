@@ -5,8 +5,8 @@ title: Contact
 
 # Contact Me
 
-📧 Email: mpaa2310@gmail.com  
-📞 Phone: +91 6379296289  
+Email: mpaa2310@gmail.com  
+Phone: +91 6379296289  
 
 ---
 
